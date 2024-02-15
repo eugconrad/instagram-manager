@@ -1,0 +1,4 @@
+Telethon==1.30.3
+instagrapi==2.0.0
+moviepy==1.0.3
+python-dotenv==1.0.1
